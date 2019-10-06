@@ -1,0 +1,7 @@
+Monday      78  57
+Tuesday     83  60
+Wednesday   81  61
+Thursday    80  60
+Friday      73  57
+Saturday    72  56
+Sunday      72  55

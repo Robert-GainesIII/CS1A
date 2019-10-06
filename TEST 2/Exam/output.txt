@@ -1,0 +1,11 @@
+DAY            HIGH    LOW     AVG     STATUS
+  --------------------------------------------
+Monday         78.00   57.00   67.50   Cold    
+Tuesday        83.00   60.00   71.50   Warm    
+Wednesday      81.00   61.00   71.00   Warm    
+Thursday       80.00   60.00   70.00   Cold    
+Friday         73.00   57.00   65.00   Cold    
+Saturday       72.00   56.00   64.00   Cold    
+Sunday         72.00   55.00   63.50   Cold    
+
+AVERAGE OF DAILY AVERAGES: 67.50
